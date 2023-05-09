@@ -35,6 +35,7 @@ Features
 * Wallet passwords use Scrypt to delay the decryption algorithm to a fixed amount of time, for security.
 * Anti-clipboard hijacking area under transaction windows prints addresses that have been inserted into
   the clipboard.
+* It connects to a full node to broadcast transactions, with the option to run your own inside Docker.
 
 Credits
 -------
