@@ -9,6 +9,7 @@ def main(args=None):
     click.echo("Replace this message by putting your code into "
                "ragnarok.cli.main")
     click.echo("See click documentation at https://click.palletsprojects.com/")
+    click.echo("If you can see this message, then that means things are working.")
     return 0
 
 
