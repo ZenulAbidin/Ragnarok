@@ -6,7 +6,7 @@
 import unittest
 from click.testing import CliRunner
 
-#from ragnarok import ragnarok
+# from ragnarok import ragnarok
 from ragnarok import cli
 
 
