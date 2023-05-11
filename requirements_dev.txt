@@ -3,7 +3,7 @@ bump2version==1.0.1
 wheel==0.40.0
 watchdog==3.0.0
 flake8==6.0.0
-tox==4.5.1
+tox=4.5.1
 coverage==4.5.4
 Sphinx==7.0.0
 twine==4.0.2
@@ -11,4 +11,4 @@ Click==8.1.3
 black==23.3.0
 pytest
 tox-gh-actions
-tox-travis
+tox-travis @ git+https://github.com/ZenulAbidin/tox-travis@a3311e4e51f7c126932d990842c44417e5017fc9
