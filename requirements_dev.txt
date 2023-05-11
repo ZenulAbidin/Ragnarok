@@ -11,4 +11,4 @@ Click==8.1.3
 black==23.3.0
 pytest
 tox-gh-actions==3.1.0
-tox-travis @ git+https://github.com/ZenulAbidin/tox-travis@a3311e4e51f7c126932d990842c44417e5017fc9
+tox-travis @ git+https://github.com/ZenulAbidin/tox-travis@73d9da7e0514e0e0edf926eb1b444bdfe7630596
