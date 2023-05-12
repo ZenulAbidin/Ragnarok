@@ -1,7 +1,7 @@
 # Config file for automatic testing at travis-ci.com
 
 os: linux
-dis: focal
+dist: focal
 language: python
 python:
   - 3.11
@@ -22,7 +22,7 @@ script: tox
 deploy:
   provider: pypi
   distributions: sdist bdist_wheel
-  user: ZenulAbidin
+  username: ZenulAbidin
   password:
     secure: PLEASE_REPLACE_ME
   on:
